@@ -8,6 +8,8 @@
 
 下载：
 -----
+[第10集 女巫VS史蒂夫](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/10/60.FPS.sub.Annoying.Villagers.10.-.Minecraft.Animation.mp4)
+
 [第36集 双神之战](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/36/Annoying.Villagers.36.-.Minecraft.Animation.mkv)
 
 [第37集 绝命危机](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/37/Annoying.Villagers.37.-.Minecraft.Animation.mkv)
