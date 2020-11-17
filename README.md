@@ -27,3 +27,5 @@
 [第45集 下界大更新](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/45/Annoying.Villagers.45.-.Minecraft.Animation.mkv)
 
 [第46集 芥末的理想](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/46/Annoying.Villagers.46.-.Minecraft.Animation.mkv)
+
+[第47集 世界的阴影](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/47/60.FPS.sub.Annoying.Villagers.47.-.Minecraft.Animation.mp4)
