@@ -35,3 +35,5 @@
 [第49集 准备工作](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/49/60.FPS.sub.Annoying.Villagers.49.-.Minecraft.Animation.mkv)
 
 [第50集 揭露恶魔](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/50/60.FPS.sub.Annoying.Villagers.50.-.Minecraft.Animation.mkv)
+
+[第51集 恶魔之战](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/51/60.FPS.sub.Annoying.Villagers.51.-.Minecraft.Animation.mkv)
