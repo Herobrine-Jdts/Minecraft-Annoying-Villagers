@@ -1,10 +1,14 @@
 <h1 align="center">Minecraft Annoying Villagers</h1>
 
-[Annoying Villagers by MrFudgeMonkeyz](https://www.youtube.com/playlist?list=PL0D8hzLgztG0wtDECetoloCwRBOu2mE3e) 中英双字幕
+[Annoying Villagers by MrFudgeMonkeyz](https://www.youtube.com/playlist?list=PL0D8hzLgztG0wtDECetoloCwRBOu2mE3e)
+中英双字幕
 
 发现错误，可发送到
 `No.10086Herobrine@Gmail.com`
 帮助我改进
+
+使用软件：[Flowframes](https://github.com/n00mkrad/flowframes)
+补帧算法：[RIFE](https://github.com/hzwer/ECCV2022-RIFE)
 
 下载：
 -----
