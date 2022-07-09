@@ -43,3 +43,5 @@
 [第51集 恶魔之战](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/51/60.FPS.sub.Annoying.Villagers.51.-.Minecraft.Animation.mkv)
 
 [第52集 创世神的怜悯](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/52/60.FPS.sub.Annoying.Villagers.52.-.Minecraft.Animation.mkv)
+
+[第53集 国王驾到](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/53/60.FPS.sub.Annoying.Villagers.53.-.Minecraft.Animation.mkv)
