@@ -47,3 +47,5 @@
 [第53集 国王驾到](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/53/60.FPS.sub.Annoying.Villagers.53.-.Minecraft.Animation.mkv)
 
 [第54集 注定的灾难](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/54/72.FPS.sub.Annoying.Villagers.54.-.Minecraft.Animation.mkv)
+
+[第55集 苦味](https://github.com/Herobrine-Jdts/Minecraft-Annoying-Villagers/releases/download/55/72.FPS.sub.Annoying.Villagers.55.-.Minecraft.Animation.mkv)
